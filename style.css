@@ -1,0 +1,48 @@
+
+.line
+{
+width: 50px; 
+background-color: black; 
+height: 5px;
+margin: 8px auto;
+}
+#AppLabGames
+{
+    background-color: rgb(147, 147, 229);
+}
+#GameApps
+{
+    background-color: cyan;
+}
+#Bot
+{
+    background-color: lightgreen;
+}
+#mycarousel
+{
+    background-color: red;
+}
+#mycarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+
+}
+.carousel-inner p
+{
+    margin-top: 15px;               
+    margin-bottom: 15px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+#mycarousel1
+{
+    background-color: rgb(13, 86, 182);
+
+}
+#mycarousel1 iframe
+{
+    margin-top: 35px;
+
+}
